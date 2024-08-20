@@ -7,8 +7,8 @@
 
 ## Debtors:
 
-[Collections "Debtors"](https://github.com/RomanPravdiuk/NoSQL/blob/main/Collections%22People%22.json)
+[Collections "Debtors"](https://github.com/DariaStavytska/NoSQL/blob/main/Collection_Debtors.json)
 
 ## Profession:
 
-[Collections "Profession"](https://github.com/RomanPravdiuk/NoSQL/blob/main/Collections%22Orders%22.json)
+[Collections "Profession"](https://github.com/DariaStavytska/NoSQL/blob/main/Collection_Profession.json)
