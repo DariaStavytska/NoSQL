@@ -1,0 +1,42 @@
+([
+    {
+        "name": "Anna",
+        "age": 47,
+        "money": 789,
+        "currency": "E",
+        "city": "Kyiv",
+        "ip": "0.1.2.4",
+    },
+    {
+        "name": "Max",
+        "age": 35,
+        "money": 500,
+        "currency": "USD",
+        "city": "Kharkiv",
+        "ip": "7.1.2.3",
+    },
+    {
+        "name": "Olexandr",
+        "age": 23,
+        "money": 78,
+        "currency": "USD",
+        "city": "Dnipro",
+        "ip": "7.1.9.3",
+    },
+    {
+    "name": "Olena",
+    "age": 20,
+    "money": 50.50,
+    "currency": "USD",
+    "city": "Dnipro",
+    "ip": "0.1.2.3",
+    },
+    {
+        "name": "Ivan",
+        "age": 20,
+        "currency": "USD",
+        "city": "Dnipro",
+        "ip": "0.1.2.5",
+    },
+]);
+    
